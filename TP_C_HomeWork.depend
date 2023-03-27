@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679950910 source:c:\users\asus\desktop\c\tp_c_homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
